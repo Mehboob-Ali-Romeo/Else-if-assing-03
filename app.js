@@ -223,3 +223,74 @@
 
 
 
+// let speed = 110;
+// let hasLicense = true;
+
+// if (speed > 120) {
+//     console.log("License suspended");
+// }
+// else if (speed >= 100 && speed <= 120) {
+//     console.log("Warning");
+// }
+// else if (speed <= 100 && hasLicense) {
+//     console.log("Normal driving");
+// }
+// else {
+//     console.log("Driving without license");
+// }
+
+
+
+
+// let paymentComplete = true;
+// let shipped = false;
+// let failed = false;
+
+// if (failed) {
+//     console.log("Payment failed");
+// }
+// else if (!paymentComplete) {
+//     console.log("Awaiting payment");
+// }
+// else if (paymentComplete && shipped) {
+//     console.log("Order on the way");
+// }
+// else if (paymentComplete && !shipped) {
+//     console.log("Preparing your order");
+// }
+
+
+
+// let level = 50;
+// let charging = true;
+
+// if (level === 100) {
+//     console.log("Fully Charged");
+// }
+// else if (level < 100 && charging) {
+//     console.log("Charging...");
+// }
+// else if (level < 20 && !charging) {
+//     console.log("Low Battery");
+// }
+// else {
+//     console.log("Battery OK");
+// }
+
+
+
+
+// let browser = "Chrome";
+// let device = "Mobile";
+
+// if (browser === "Chrome" && device === "Desktop") {
+//     console.log("Full features enabled");
+// }
+// else if (browser === "Chrome" && device === "Mobile") {
+//     console.log("Limited mobile features");
+// }
+// else {
+//     console.log("Please switch to Chrome");
+// }
+
+// Completed 
